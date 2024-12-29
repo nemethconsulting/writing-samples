@@ -1,4 +1,4 @@
-# Technical and Marketing Writing Samples for Jason Nemeth
+# Technical and Marketing Writing Samples by Jason Nemeth
 
 1. API Documentation:
 
