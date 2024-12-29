@@ -1,4 +1,4 @@
-# Use the links below to review my technical and marketing writing samples.
+# Technical and Marketing Writing Samples for Jason Nemeth
 
 1. API Documentation:
 
