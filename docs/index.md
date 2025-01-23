@@ -2,7 +2,8 @@
 
 1. API Documentation:
 
-   - [https://nemethconsulting.github.io/uw-rhs](https://nemethconsulting.github.io/uw-rhs)
+   - [API Docset](https://bit.ly/4g8rspo)
+   - [Documentation Repo](https://bit.ly/4jDqbd0)
 
 2. White Paper for Payment Processing Company, Meracord:
    
