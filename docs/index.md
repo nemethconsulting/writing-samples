@@ -17,6 +17,6 @@
 
    - [https://bit.ly/4f8J2Ju](https://bit.ly/4f8J2Ju)
 
-5. Case Study for Taproot Foundation
+5. Case Study for Taproot Foundation:
 
    - [https://bit.ly/4hHS1T5](https://bit.ly/4hHS1T5)
